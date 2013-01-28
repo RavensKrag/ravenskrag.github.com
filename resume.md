@@ -72,17 +72,17 @@ Try showing scale for stars on mouseover of stars
 ## Poetry - Published Works
 * [Westfield High School][] literary magazine Calliope
 
-	* 2006 - 1 work
+	* 2006
 	
 		* [False Truth][] (pg 35)
-	* 2008 - 1 work
+	* 2008
 	
 		* [Binding Wings][] (pg 4)	
-	* 2009 (special early edition) - 2 works
+	* 2009 (special early edition)
 
 		* [Voices of Neverland][] (pg 12)
 		* [Phantom Child][] (pg 28)
-	* 2009 (main issue) - 1 work
+	* 2009 (main issue)
 
 		* [Heaven's Handlense][] (pg 36, published as "Heaven's Hand Lens")
 
