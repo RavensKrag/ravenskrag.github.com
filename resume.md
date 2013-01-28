@@ -30,8 +30,8 @@ Try showing scale for stars on mouseover of stars
 * Ruby (1.8, 1.9, 1.9 metaprogramming, 1.9 C-extension API)
 * Java
 * C/C++
-* Python
 * Common LISP
+* Python
 
 ## Libraries
 * Gosu					(★★★★★)
