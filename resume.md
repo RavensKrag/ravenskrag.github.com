@@ -14,29 +14,15 @@ Try showing scale for stars on mouseover of stars
  -->
 
 # Experience
-<!--
 * Game programming - 3 years (started January 2010)
 * Avant Flux - Independent game design team
+
 	* Lead Programmer - 3 years (started January 2010)
+	
 		* Design and implementation of gameplay systems
 	* Director - 2 years (started September 2011)
+	
 		* Team management
- -->
- <!-- Manual conversion of above list into HTML, as Jekyll's support for nested lists is broken -->
-<ul>
-<li>Game programming - 3 years (started January 2010)</li>
-<li>Avant Flux - Independent game design team
-<ul>
-<li>Lead Programmer - 3 years (started January 2010)
-<ul>
-<li>Design and implementation of gameplay systems</li>
-</ul></li>
-<li>Director - 2 years (started September 2011)
-<ul>
-<li>Team management</li>
-</ul></li>
-</ul></li>
-</ul>
 
 
 
@@ -87,16 +73,17 @@ Try showing scale for stars on mouseover of stars
 # Accomplishments
 ## Poetry - Published Works
 * Westfield Highschool literary magazine Calliope (1 work) - 2006
-	
+
 	* [False Truth][] (pg 35)
 * Westfield Highschool literary magazine Calliope (1 work) - 2008
-	* [Binding Wings][] (pg 4)
-	
+
+	* [Binding Wings][] (pg 4)	
 * Westfield Highschool literary magazine Calliope(special early edition) (2 works) - 2009
+
 	* [Voices of Neverland][] (pg 12)
 	* [Phantom Child][] (pg 28)
 * Westfield Highschool literary magazine Calliope (1 work) - 2009
-	
+
 	* [Heaven's Handlense][] (published as "Heaven's Hand Lens", pg 36)
 
 
