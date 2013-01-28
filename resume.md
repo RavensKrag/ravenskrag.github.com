@@ -47,15 +47,18 @@ Try showing scale for stars on mouseover of stars
 * Moderate competency in 2D animation using Adobe After Effects
 * Moderate competency in 3D animation using Autodesk Maya or Blender
 
-### Audio
-| Program 				 | Proficiency |
-| ----					 | ---- | 
-| Audotool				 | (★☆☆☆☆) |
-| Audacity				 | (★☆☆☆☆) |
-| SFXR					 | (★☆☆☆☆) |
-| Ableton Live			 | (☆☆☆☆☆) |
 
 ## Music
+### Scale
+| Rating  | Description
+| ----    | ---- 
+| (☆☆☆☆☆) | Learning in progress...
+| (★☆☆☆☆) | Simple tunes
+| (★★☆☆☆) | Basic understanding of instrument
+| (★★★☆☆) | Intermediate
+| (★★★★☆) | Advanced
+| (★★★★★) | Mastery - Professional level
+
 * Piano	--- since 1996 (16 years)			(proficiency: ★★★☆☆)
 * Violin --- since 2001 (11 years)			(proficiency: ★★★★☆)
 * Controllerism --- Since 2012 (< 1 year)	(proficiency: ☆☆☆☆☆)
