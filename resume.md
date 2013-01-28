@@ -47,6 +47,7 @@ Try showing scale for stars on mouseover of stars
 * (★★★★☆)	Generates fairly impressive product
 * (★★★★★)	Mastery - beautiful work
 
+### Art Programs
 | Program 				 | Proficiency |
 | ----					 | ---- | 
 | Photoshop				 | (★★☆☆☆) |
@@ -55,6 +56,7 @@ Try showing scale for stars on mouseover of stars
 | Adobe After Effects	 | (★☆☆☆☆) |
 | Blender				 | (★☆☆☆☆) |
 
+### Audio Programs
 | Program 				 | Proficiency |
 | ----					 | ---- | 
 | Audotool				 | (★☆☆☆☆) |
