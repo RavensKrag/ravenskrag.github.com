@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: resume_layout
 title: Resume for RavensKrag @ github
 categories:
 - resume
@@ -14,12 +14,31 @@ Try showing scale for stars on mouseover of stars
  -->
 
 # Experience
+<!--
 * Game programming - 3 years (started January 2010)
 * Avant Flux - Independent game design team
-    * Lead Programmer - 3 years (started January 2010)
-       * Design and implementation of gameplay systems
-    * Director - 2 years (started September 2011)
-       * Team management
+	* Lead Programmer - 3 years (started January 2010)
+		* Design and implementation of gameplay systems
+	* Director - 2 years (started September 2011)
+		* Team management
+ -->
+ <!-- Manual conversion of above list into HTML, as Jekyll's support for nested lists is broken -->
+<ul>
+<li>Game programming - 3 years (started January 2010)</li>
+<li>Avant Flux - Independent game design team
+<ul>
+<li>Lead Programmer - 3 years (started January 2010)
+<ul>
+<li>Design and implementation of gameplay systems</li>
+</ul></li>
+<li>Director - 2 years (started September 2011)
+<ul>
+<li>Team management</li>
+</ul></li>
+</ul></li>
+</ul>
+
+
 
 # Skills
 ## Languages
