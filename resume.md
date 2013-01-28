@@ -40,27 +40,14 @@ Try showing scale for stars on mouseover of stars
 * Ogre3D				(★★☆☆☆)
 
 ## Applications
-<!-- improve writing on descriptions-->
-### Scale
-| Rating  | Description
-| ----    | ---- 
-| (☆☆☆☆☆) | Learning in progress...
-| (★☆☆☆☆) | General knowledge of how the program works, 
-| (★★☆☆☆) | Capable of basic tasks (not guaranteed to look nice)
-| (★★★☆☆) | Can make something look half decent
-| (★★★★☆) | Generates fairly impressive product
-| (★★★★★) | Mastery - beautiful work
+### Visual Art
+* Basic understanding 2D raster and vector art, in programs like Photoshop and Paint Tool SAI.
+* Basic understanding of 3D software, Autodesk Maya and Blender
 
-### Art Programs
-| Program 				 | Proficiency |
-| ----					 | ---- | 
-| Photoshop				 | (★★☆☆☆) |
-| Paint Tool SAI		 | (★★☆☆☆) |
-| Autodesk Maya			 | (★★☆☆☆) |
-| Adobe After Effects	 | (★☆☆☆☆) |
-| Blender				 | (★☆☆☆☆) |
+* Moderate competency in 2D animation using Adobe After Effects
+* Moderate competency in 3D animation using Autodesk Maya or Blender
 
-### Audio Programs
+### Audio
 | Program 				 | Proficiency |
 | ----					 | ---- | 
 | Audotool				 | (★☆☆☆☆) |
