@@ -47,6 +47,10 @@ Try showing scale for stars on mouseover of stars
 * (★★★★☆)	Generates fairly impressive product
 * (★★★★★)	Mastery - beautiful work
 
+| Program 				 | Proficiency |
+| ---- | ---- | 
+| Adobe After effects	 | (★☆☆☆☆) |
+
 
 * Photoshop				(★★☆☆☆)
 * Paint Tool SAI		(★★☆☆☆)
