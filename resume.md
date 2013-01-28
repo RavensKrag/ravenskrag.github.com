@@ -16,10 +16,10 @@ Try showing scale for stars on mouseover of stars
 # Experience
 * Game programming - 3 years (started January 2010)
 * Avant Flux - Independent game design team
-   * Lead Programmer - 3 years (started January 2010)
-     * Design and implementation of gameplay systems
-  * Director - 2 years (started September 2011)
-     * Team management
+    * Lead Programmer - 3 years (started January 2010)
+       * Design and implementation of gameplay systems
+    * Director - 2 years (started September 2011)
+       * Team management
 
 # Skills
 ## Languages
