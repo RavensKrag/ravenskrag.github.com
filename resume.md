@@ -39,7 +39,7 @@ Try showing scale for stars on mouseover of stars
 * Bundler				(★★★☆☆)
 * Ogre3D				(★★☆☆☆)
 
-## Applications
+## Application Mastery
 ### Visual Art
 * Basic understanding 2D raster and vector art, in programs like Photoshop and Paint Tool SAI.
 * Basic understanding of 3D software, Autodesk Maya and Blender
