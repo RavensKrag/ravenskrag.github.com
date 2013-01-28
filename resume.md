@@ -41,6 +41,7 @@ Try showing scale for stars on mouseover of stars
 ## Applications
 <!-- improve writing on descriptions-->
 ### Scale
+* (☆☆☆☆☆)	Learning in progress...
 * (★☆☆☆☆)	General knowledge of how the program works, 
 * (★★☆☆☆)	Capable of basic tasks (not guaranteed to look nice)
 * (★★★☆☆)	Can make something look half decent
