@@ -27,7 +27,7 @@ Try showing scale for stars on mouseover of stars
 # Skills
 ## Languages
 ### (in order of proficiency)
-* Ruby
+* Ruby (1.8, 1.9, 1.9 metaprogramming, 1.9 C-extension API)
 * Java
 * C/C++
 * Python
