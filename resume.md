@@ -63,7 +63,7 @@ Try showing scale for stars on mouseover of stars
 * Violin --- since 2001 (11 years)			(proficiency: ★★★★☆)
 * Controllerism --- Since 2012 (< 1 year)	(proficiency: ☆☆☆☆☆)
 
-## Education
+# Education
 * 6 years Japanese language study (2006-2011)
 * [Westfield High School][] (2005-2009)
 
