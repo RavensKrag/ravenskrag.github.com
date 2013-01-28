@@ -48,20 +48,19 @@ Try showing scale for stars on mouseover of stars
 * (★★★★★)	Mastery - beautiful work
 
 | Program 				 | Proficiency |
-| ---- | ---- | 
-| Adobe After effects	 | (★☆☆☆☆) |
+| ----					 | ---- | 
+| Photoshop				 | (★★☆☆☆) |
+| Paint Tool SAI		 | (★★☆☆☆) |
+| Autodesk Maya			 | (★★☆☆☆) |
+| Adobe After Effects	 | (★☆☆☆☆) |
+| Blender				 | (★☆☆☆☆) |
 
-
-* Photoshop				(★★☆☆☆)
-* Paint Tool SAI		(★★☆☆☆)
-* Autodesk Maya			(★★☆☆☆)
-* Adobe After Effects	(★☆☆☆☆)
-* Blender				(★☆☆☆☆)
-
-* Audotool				(★☆☆☆☆)
-* Audacity				(★☆☆☆☆)
-* SFXR					(★☆☆☆☆)
-* Ableton Live			(☆☆☆☆☆)
+| Program 				 | Proficiency |
+| ----					 | ---- | 
+| Audotool				 | (★☆☆☆☆) |
+| Audacity				 | (★☆☆☆☆) |
+| SFXR					 | (★☆☆☆☆) |
+| Ableton Live			 | (☆☆☆☆☆) |
 
 ## Music
 * Piano	--- since 1996 (16 years)			(proficiency: ★★★☆☆)
