@@ -74,21 +74,22 @@ Try showing scale for stars on mouseover of stars
 
 	* 2006
 	
-		* [False Truth][] (pg 35)
+		* [False Truth][] (printed on pg 35)
 	* 2008
 	
-		* [Binding Wings][] (pg 4)	
+		* [Binding Wings][] (printed on pg 4)	
 	* 2009 (special early edition)
-
-		* [Voices of Neverland][] (pg 12)
-		* [Phantom Child][] (pg 28)
+	
+		* [Voices of Neverland][] (printed on pg 12)
+		* [Phantom Child][] (printed on pg 28)
 	* 2009 (main issue)
-
-		* [Heaven's Handlense][] (pg 36, published as "Heaven's Hand Lens")
+	
+		* [Heaven's Handlense][] (printed on pg 36, as "Heaven's Hand Lens")
 
 
 
 [Westfield High School]: http://www.fcps.edu/WestfieldHS/
+
 [False Truth]: http://serenadeomega.deviantart.com/art/False-Truth-60836700
 [Binding Wings]: http://serenadeomega.deviantart.com/art/Binding-Wings-74908124
 [Voices of Neverland]: http://serenadeomega.deviantart.com/art/Voices-of-Neverland-83998836
