@@ -1,3 +1,10 @@
+---
+layout: none
+title: Resume for RavensKrag @ github
+categories:
+- resume
+---
+
 <!--
 NOTES:
 Try showing scale for stars on mouseover of stars
