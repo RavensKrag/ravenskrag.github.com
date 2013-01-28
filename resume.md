@@ -36,6 +36,7 @@ Try showing scale for stars on mouseover of stars
 ## Libraries
 * Gosu					(★★★★★)
 * Chipmunk Physics 5	(★★★★☆)
+* Bundler				(★★★☆☆)
 * Ogre3D				(★★☆☆☆)
 
 ## Applications
