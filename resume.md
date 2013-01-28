@@ -71,4 +71,25 @@ Try showing scale for stars on mouseover of stars
 
 ## Education
 * 6 years Japanese language study (2006-2011)
-* 
+* Westfield High School (2005-2009)
+
+# Accomplishments
+## Poetry - Published Works
+* Westfield Highschool literary magazine Calliope (1 work) - 2006
+	* [False Truth][] (pg 35)
+* Westfield Highschool literary magazine Calliope (1 work) - 2008
+	* [Binding Wings][] (pg 4)
+* Westfield Highschool literary magazine Calliope(special early edition) (2 works) - 2009
+	* [Voices of Neverland][] (pg 12)
+	* [Phantom Child][] (pg 28)
+* Westfield Highschool literary magazine Calliope (1 work) - 2009
+	* [Heaven's Handlense][] (published as "Heaven's Hand Lens", pg 36)
+
+
+
+
+[False Truth]: http://serenadeomega.deviantart.com/art/False-Truth-60836700
+[Binding Wings]: http://serenadeomega.deviantart.com/art/Binding-Wings-74908124
+[Voices of Neverland]: http://serenadeomega.deviantart.com/art/Voices-of-Neverland-83998836
+[Phantom Child]: http://serenadeomega.deviantart.com/art/Phantom-Child-87364561
+[Heaven's Handlense]: http://serenadeomega.deviantart.com/art/Heaven-s-Handlense-106003557
