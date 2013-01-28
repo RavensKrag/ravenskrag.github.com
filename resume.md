@@ -64,10 +64,21 @@ Try showing scale for stars on mouseover of stars
 * (★★★★★)	Mastery - beautiful work
 
 
-* Photoshop			(★★☆☆☆)
-* Paint Tool SAI	(★★☆☆☆)
-* Autodesk Maya		(★★☆☆☆)
-* Blender			(★☆☆☆☆)
+* Photoshop				(★★☆☆☆)
+* Paint Tool SAI		(★★☆☆☆)
+* Autodesk Maya			(★★☆☆☆)
+* Adobe After Effects	(★☆☆☆☆)
+* Blender				(★☆☆☆☆)
+
+* Audotool				(★☆☆☆☆)
+* Audacity				(★☆☆☆☆)
+* SFXR					(★☆☆☆☆)
+* Ableton Live			(☆☆☆☆☆)
+
+## Music
+* Piano	--- since 1996 (16 years)			(proficiency: ★★★☆☆)
+* Violin --- since 2001 (11 years)			(proficiency: ★★★★☆)
+* Controllerism --- Since 2012 (< 1 year)	(proficiency: ☆☆☆☆☆)
 
 ## Education
 * 6 years Japanese language study (2006-2011)
