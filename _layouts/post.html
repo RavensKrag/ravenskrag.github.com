@@ -1,9 +1,21 @@
-<div class="post">
-	<span>{{ page.date }}</span>
-	<h1>{{ page.title }}</h1>
-	<div>
-		{{ content }}
-	</div>
-	
-	{% include disqus_comments.html %}
-</div>
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<title>{{ page.title }}</title>
+		<!-- <link rel="icon" href="#" /> -->
+		
+		<link href="style.css" rel="stylesheet" type="text/css" />
+	</head>
+	<body>
+		<div class="post">
+			<span>{{ page.date }}</span>
+			<h1>{{ page.title }}</h1>
+			<div>
+				{{ content }}
+			</div>
+			
+			{% include disqus_comments.html %}
+		</div>
+	</body>
+</html>

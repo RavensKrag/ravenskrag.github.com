@@ -1,0 +1,21 @@
+body {
+	background: rgb(155, 151, 156);
+	
+	color: #4C2360;
+}
+
+div {
+	/*background: #4C2360;*/
+}
+
+h1, h2, h3, h4, h5, h6{
+	color: #CA1E37;
+}
+
+#main {
+	
+}
+
+#nav {
+	background: #D2C2A6;
+}

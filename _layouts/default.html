@@ -32,11 +32,15 @@
 		</div>
 		
 		<div id="blog">
-			<ul>
-				{% for post in site.posts limit: 5 %}
-				<li><a href="{{ post.url }}">{{ post.title }}</a></li>
-				{% endfor %}
-			</ul>
+			{% for post in site.posts limit: 5 %}
+			<div class="post">
+				<span>{{ post.date }}</span>
+				<h1>{{ post.title }}</h1>
+				<div>
+					{{ post.content }}
+				</div>
+			</div>
+			{% endfor %}
 		</div>
 	</body>
 </html>
