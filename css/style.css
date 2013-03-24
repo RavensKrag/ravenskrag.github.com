@@ -6,6 +6,7 @@ body {
 
 div {
 	/*background: #4C2360;*/
+	background: #D2C2A6;
 }
 
 h1, h2, h3, h4, h5, h6{
@@ -17,5 +18,17 @@ h1, h2, h3, h4, h5, h6{
 }
 
 #nav {
-	background: #D2C2A6;
+	
+}
+
+#blog {
+	
+}
+
+#blog post {
+	
+}
+
+#blog post date {
+	
 }
