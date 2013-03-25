@@ -17,13 +17,9 @@ h1, h2, h3, h4, h5, h6{
 	
 }
 
-#nav {
-	
-}
-
 
 #recent-projects {
-	
+	float: left;
 }
 
 #recent-projects .project {
@@ -47,6 +43,16 @@ h1, h2, h3, h4, h5, h6{
 }
 
 
+#about {
+	float: right;
+}
+
+#about a {
+	text-decoration: none;
+	
+	
+}
+
 
 #blog {
 	
@@ -58,4 +64,49 @@ h1, h2, h3, h4, h5, h6{
 
 #blog .post .date {
 	
+}
+
+
+/* for 980px or less */
+@media screen and (max-width: 980px) {
+	
+	/*#pagewrap {
+		width: 94%;
+	}
+	#content {
+		width: 65%;
+	}
+	#sidebar {
+		width: 30%;
+	}*/
+
+}
+
+/* for 700px or less */
+@media screen and (max-width: 700px) {
+
+	/*#content {
+		width: auto;
+		float: none;
+	}
+	#sidebar {
+		width: auto;
+		float: none;
+	}*/
+
+}
+
+/* for 480px or less */
+@media screen and (max-width: 480px) {
+
+	/*#header {
+		height: auto;
+	}
+	h1 {
+		font-size: 24px;
+	}
+	#sidebar {
+		display: none;
+	}*/
+
 }
