@@ -18,14 +18,11 @@ h1, h2, h3, h4, h5, h6{
 }
 
 #top {
-	position: relative;
+	float: left;
 }
 
 #recent-projects {
-	position: absolute;
-	left: 0px;
-	
-	width: 20em;
+	float: left;
 }
 
 #recent-projects .project {
@@ -50,10 +47,7 @@ h1, h2, h3, h4, h5, h6{
 
 
 #about {
-	position: absolute;
-	right: 0px;
-	
-	width: 200px;
+	float: left;
 }
 
 #about a {
