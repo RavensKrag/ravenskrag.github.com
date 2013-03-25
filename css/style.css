@@ -34,10 +34,6 @@ h1, h2, h3, h4, h5, h6{
 	text-decoration: none;
 }
 
-#recent-projects .project a:hover {
-	color: #FFFFFF;
-}
-
 #recent-projects .project a:link {
 	color: #000000;
 }
@@ -45,6 +41,11 @@ h1, h2, h3, h4, h5, h6{
 #recent-projects .project a:visited {
 	color: #0000FF;
 }
+
+#recent-projects .project a:hover {
+	color: #FFFFFF;
+}
+
 
 
 #blog {
