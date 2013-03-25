@@ -21,14 +21,40 @@ h1, h2, h3, h4, h5, h6{
 	
 }
 
+
+#recent-projects {
+	
+}
+
+#recent-projects .project {
+	
+}
+
+#recent-projects .project a {
+	text-decoration: none;
+}
+
+#recent-projects .project a:hover {
+	color: #FFFFFF;
+}
+
+#recent-projects .project a:link {
+	color: #000000;
+}
+
+#recent-projects .project a:visited {
+	color: #0000FF;
+}
+
+
 #blog {
 	
 }
 
-#blog post {
+#blog .post {
 	
 }
 
-#blog post date {
+#blog .post .date {
 	
 }
