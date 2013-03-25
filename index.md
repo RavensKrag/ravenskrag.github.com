@@ -5,5 +5,3 @@ categories:
 - main
 - other tags
 ---
-
-# Testing out Jekyll :D
