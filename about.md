@@ -1,3 +1,10 @@
+---
+layout: about
+title: Portfolio of RavensKrag @ github - About
+categories:
+- tags
+---
+
 # About
 
 [resume](resume.html)
