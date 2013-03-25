@@ -34,7 +34,7 @@
 		<div id="blog">
 			{% for post in site.posts limit: 5 %}
 			<div class="post">
-				<span>{{ post.date }}</span>
+				<span class="date">{{ post.date | "%b %d, %Y" }}</span>
 				<h1>{{ post.title }}</h1>
 				<div>
 					{{ post.content }}
