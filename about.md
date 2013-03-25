@@ -7,7 +7,7 @@ categories:
 
 # About
 
-[resume](resume.html)
+[resume](resume.html)  
 email: AvantFlux.Raven AT gmail dot com  
 twitter: @RavensKrag  
 
