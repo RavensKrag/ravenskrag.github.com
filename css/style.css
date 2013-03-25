@@ -60,7 +60,8 @@ h1, h2, h3, h4, h5, h6{
 
 
 #blog {
-	
+	margin-right: 50px;
+	margin-left: 50px;
 }
 
 #blog .post {
