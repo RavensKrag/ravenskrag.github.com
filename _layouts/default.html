@@ -8,17 +8,6 @@
 		<link href="css/style.css" rel="stylesheet" type="text/css" />
 	</head>
 	<body>
-		<div id="nav">
-			<span class="header">
-				
-			</span>
-			<ul class="links">
-				<li class="link">
-					About
-				</li>
-			</ul>
-		</div>
-		
 		<div id="recent-projects">
 			{% for post in site.categories.project limit: 3 %}
 			<div class="project">
@@ -34,6 +23,17 @@
 				<a href="portfolio.html">Full Portfolio</a>
 				<a href="resume.html">Resume</a>
 			</div>
+		</div>
+		
+		<div id="about">
+			<img src="https://secure.gravatar.com/avatar/272d3f505885bebed898d537aaeb0c70?s=100">
+			<span class="name">
+				RavensKrag
+			</span>
+			<span class="description">
+				Programmer, Game Designer, and Writer
+			</span>
+			<a href="about.html">more</a>
 		</div>
 		
 		<div id="blog">
